@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @geetika005
 - 👀 I’m interested in contributing to open source, coding and web development
-- 🌱 I’m currently a Btech 2nd year student
+- 🌱 I’m currently a Btech 3rd year student
 - 📫 How to reach me LinkedIn-https://www.linkedin.com/in/geetika-bhatnagar-503225203
 
 <!---
